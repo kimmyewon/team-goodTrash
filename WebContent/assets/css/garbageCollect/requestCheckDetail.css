@@ -34,7 +34,7 @@ table {
 
 th {
     width: 260px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #ddd !important;
     background-color: #f8f6f5;
     color: #000;
     padding: 15px 10px;
