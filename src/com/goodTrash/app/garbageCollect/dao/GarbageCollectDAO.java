@@ -5,7 +5,6 @@ import java.util.List;
 
 import org.apache.ibatis.session.SqlSession;
 
-import com.goodTrash.app.garbageCollect.vo.GarbageCollectDTO;
 import com.goodTrash.app.garbageCollect.vo.GarbageCollectVO;
 import com.mybatis.config.MyBatisConfig;
 
