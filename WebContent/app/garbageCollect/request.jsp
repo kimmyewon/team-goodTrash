@@ -93,7 +93,10 @@
                         <a href="${pageContext.request.contextPath}/product/main.product">스토어</a>
                     </li>
                     <li class="active">
-                        <a href="">커뮤니티</a>
+                        <a href="${pageContext.request.contextPath}/garbageCollect/request.collect">수거신청</a>
+                    </li>
+                    <li class="active">
+                        <a href="${pageContext.request.contextPath}/garbageCollect/history.collect">수거내역</a>
                     </li>
                     <li class="active">
                         <a href="">공지사항</a>
